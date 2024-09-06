@@ -1,0 +1,1 @@
+export 'package:fl_newsapp/widgets/list_articles.dart';
